@@ -7,7 +7,7 @@
 " by Wimer Hazenberg and its darker variant
 " by Hamish Stuart Macpherson
 "
-let g:molokai_italics = 0
+let g:molokai_italic = 0
 
 hi clear
 
