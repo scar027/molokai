@@ -124,7 +124,8 @@ else
     hi StorageClass guifg=#FD971F
 endif
 
-hi Structure       guifg=#66D9EF
+" hi Structure       guifg=#66D9EF
+hi Structure       guifg=#F8F8F2
 
 if s:molokai_italic
     hi Tag         guifg=#F92672               gui=italic
